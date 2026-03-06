@@ -29,7 +29,7 @@
 
 <br>
 
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/nachikettalekar)
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nachikettalekar/newton-fractals-the-frozen-universe)
 
 <br>
 
