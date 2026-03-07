@@ -232,7 +232,7 @@ Computed basin 3:     ≈ 33.33%
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/newton-fractals.git
+git clone https://github.com/nachiket-1/newton-fractals.git
 cd newton-fractals
 
 # Install
